@@ -27,8 +27,8 @@ h3 {
 }
 
 .banner {
-  background-image: url(/images/background.jpg), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6)));
-  background-image: url(/images/background.jpg), linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  background-image: url("https://github.com/swwfleur/leWagonProject/blob/main/background.jpg?raw=true"), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6)));
+  background-image: url("https://github.com/swwfleur/leWagonProject/blob/main/background.jpg?raw=true"), linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
   background-size: cover;
   background-position: center;
   padding: 150px 0;
